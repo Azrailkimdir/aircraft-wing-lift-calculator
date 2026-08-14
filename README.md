@@ -49,6 +49,8 @@ Display lift-force relationships through graphs and charts.
 - Data Analysis
 - Engineering Problem Solving
 
+  ![Aircraft Wing Lift Calculator](AircraftWingLiftCalculator.png)
+
 ## Future Improvements
 - Multiple Wing Profiles
 - Stall Analysis
