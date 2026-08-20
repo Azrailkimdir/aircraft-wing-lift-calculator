@@ -4,7 +4,7 @@
 
 This project is currently under development as part of my Aerospace Engineering portfolio.
 
-# Aircraft Wing Lift Calculator ✈️
+# Aircraft Wing Lift Calculator 
 
 A Python-based aerospace engineering project that calculates aircraft wing lift using fundamental aerodynamic principles.
 
