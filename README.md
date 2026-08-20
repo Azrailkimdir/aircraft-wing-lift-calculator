@@ -62,7 +62,9 @@ Display lift-force relationships through graphs and charts.
 - Python Source Code
 - Lift Calculations
 - Graphs and Visualizations
-- Documentation
+- [Engineering Notebook](Aircraft_Wing_Lift_Calculator_notebook.pdf)
+- [Project Report ](Aircraft_Wing_Lift_Calculator_Project_Report.pdf)
+
 
 ## Author
 
